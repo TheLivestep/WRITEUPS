@@ -23,8 +23,6 @@ PORT     STATE SERVICE VERSION
 
 ## FUZZING
 
-![](../.gitbook/assets/5e937240c571438e99d75b405bf2148e.png)
-
 ![](../.gitbook/assets/4c9c4e03cbbe4c03b03c82bc6a6bc0cf.png)
 
 ### /CUSTOM
@@ -71,7 +69,7 @@ Lets see the xml request example
 
 ![](../.gitbook/assets/4b4a4cc714c240eabfd61941ada39c0e.png)
 
-Remember the comment in the page code. Lets obtain the id\_rsa of barry to SSH Login.
+Remember the comment in the page code. Lets try to obtain the id\_rsa of barry to SSH Login.
 
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
