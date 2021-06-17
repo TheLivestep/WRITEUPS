@@ -31,6 +31,7 @@
 * [STARTUP](tryhackme/startup.md)
 * [RES](tryhackme/res.md)
 * [RELEVANT](tryhackme/relevant.md)
+* [MUSTACCHIO](tryhackme/mustacchio.md)
 
 ## CYBERSECLABS
 
